@@ -1,0 +1,12 @@
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\TreinoVB\obj\Debug\TreinoVB.vbproj.AssemblyReference.cache
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\TreinoVB\obj\Debug\TreinoVB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\TreinoVB\obj\Debug\TreinoVB.Resources.resources
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\TreinoVB\obj\Debug\TreinoVB.vbproj.GenerateResource.cache
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\TreinoVB\obj\Debug\TreinoVB.vbproj.CoreCompileInputs.cache
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\TreinoVB\bin\Debug\TreinoVB.exe.config
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\TreinoVB\bin\Debug\TreinoVB.exe
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\TreinoVB\bin\Debug\TreinoVB.pdb
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\TreinoVB\bin\Debug\TreinoVB.xml
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\TreinoVB\obj\Debug\TreinoVB.exe
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\TreinoVB\obj\Debug\TreinoVB.xml
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\TreinoVB\obj\Debug\TreinoVB.pdb

@@ -1,0 +1,12 @@
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\ProjetoManagement\bin\Debug\ProjetoManagement.exe.config
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\ProjetoManagement\bin\Debug\ProjetoManagement.exe
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\ProjetoManagement\bin\Debug\ProjetoManagement.pdb
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\ProjetoManagement\bin\Debug\ProjetoManagement.xml
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\ProjetoManagement\obj\Debug\ProjetoManagement.vbproj.AssemblyReference.cache
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\ProjetoManagement\obj\Debug\ProjetoManagement.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\ProjetoManagement\obj\Debug\ProjetoManagement.Resources.resources
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\ProjetoManagement\obj\Debug\ProjetoManagement.vbproj.GenerateResource.cache
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\ProjetoManagement\obj\Debug\ProjetoManagement.vbproj.CoreCompileInputs.cache
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\ProjetoManagement\obj\Debug\ProjetoManagement.exe
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\ProjetoManagement\obj\Debug\ProjetoManagement.xml
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TreinoVB\ProjetoManagement\obj\Debug\ProjetoManagement.pdb
