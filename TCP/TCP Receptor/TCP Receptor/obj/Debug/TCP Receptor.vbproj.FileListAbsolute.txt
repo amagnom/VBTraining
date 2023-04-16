@@ -1,0 +1,23 @@
+C:\Users\tiago\source\repos\TCP Receptor\TCP Receptor\bin\Debug\TCP Receptor.exe.config
+C:\Users\tiago\source\repos\TCP Receptor\TCP Receptor\bin\Debug\TCP Receptor.exe
+C:\Users\tiago\source\repos\TCP Receptor\TCP Receptor\bin\Debug\TCP Receptor.pdb
+C:\Users\tiago\source\repos\TCP Receptor\TCP Receptor\bin\Debug\TCP Receptor.xml
+C:\Users\tiago\source\repos\TCP Receptor\TCP Receptor\obj\Debug\TCP Receptor.vbprojResolveAssemblyReference.cache
+C:\Users\tiago\source\repos\TCP Receptor\TCP Receptor\obj\Debug\TCP_Receptor.Resources.resources
+C:\Users\tiago\source\repos\TCP Receptor\TCP Receptor\obj\Debug\TCP Receptor.vbproj.GenerateResource.Cache
+C:\Users\tiago\source\repos\TCP Receptor\TCP Receptor\obj\Debug\TCP Receptor.vbproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\TCP Receptor\TCP Receptor\obj\Debug\TCP Receptor.exe
+C:\Users\tiago\source\repos\TCP Receptor\TCP Receptor\obj\Debug\TCP Receptor.xml
+C:\Users\tiago\source\repos\TCP Receptor\TCP Receptor\obj\Debug\TCP Receptor.pdb
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TCP\TCP Receptor\TCP Receptor\bin\Debug\TCP Receptor.exe.config
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TCP\TCP Receptor\TCP Receptor\bin\Debug\TCP Receptor.exe
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TCP\TCP Receptor\TCP Receptor\bin\Debug\TCP Receptor.pdb
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TCP\TCP Receptor\TCP Receptor\bin\Debug\TCP Receptor.xml
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TCP\TCP Receptor\TCP Receptor\obj\Debug\TCP Receptor.vbproj.AssemblyReference.cache
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TCP\TCP Receptor\TCP Receptor\obj\Debug\TCP Receptor.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TCP\TCP Receptor\TCP Receptor\obj\Debug\TCP_Receptor.Resources.resources
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TCP\TCP Receptor\TCP Receptor\obj\Debug\TCP Receptor.vbproj.GenerateResource.cache
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TCP\TCP Receptor\TCP Receptor\obj\Debug\TCP Receptor.vbproj.CoreCompileInputs.cache
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TCP\TCP Receptor\TCP Receptor\obj\Debug\TCP Receptor.exe
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TCP\TCP Receptor\TCP Receptor\obj\Debug\TCP Receptor.xml
+C:\Users\Arildo\Documents\GITHUB\VBTraining\TCP\TCP Receptor\TCP Receptor\obj\Debug\TCP Receptor.pdb
