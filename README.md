@@ -1,2 +1,2 @@
-# VBTraining
-Training of visual basic
+# VB Projects
+Diversos projetos para exercitar visual basic.
